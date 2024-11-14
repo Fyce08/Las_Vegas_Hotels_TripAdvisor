@@ -2,7 +2,7 @@
 
 ## Summary
 
-**Project Objective:** This report focuses on popular hotels in Las Vegas, analysing room capacity and providing insight into the most significant accommodations within the city. The goal is to understand the scale of popular Las Vegas hotels and their appeal to a diverse set of travelers.This dashboard provides insights into various aspects of Tripadvisor hotel users, hotel features, and rating distributions, aimed at understanding the users preferred travel types, hotel amenities, and seasonal visitation trends in Las Vegas. Kindly view the visualisation [HERE](https://public.tableau.com/app/profile/faizal.ajenifuja/viz/LasVegasHotelsTripAdvisorReviewinsights/Dashboard1)
+**Project Objective:** This report focuses on popular hotels in Las Vegas, analysing room capacity and providing insight into the most significant accommodations within the city. The goal is to understand the scale of popular Las Vegas hotels and their appeal to a diverse set of travelers. This dashboard provides insights into various aspects of Tripadvisor hotel users, hotel features, and rating distributions, aimed at understanding the users preferred travel types, hotel amenities, and seasonal visitation trends in Las Vegas. Kindly view the visualisation [HERE](https://public.tableau.com/app/profile/faizal.ajenifuja/viz/LasVegasHotelsTripAdvisorReviewinsights/Dashboard1)
 
 **Key Performance Indicators (KPIs):** Total users by continent, Top hotels by room count, User segmentation by travel type and stay period, Hotel distribution by star rating, Hotel amenities and additional services.
 
