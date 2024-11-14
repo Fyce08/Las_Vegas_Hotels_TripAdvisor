@@ -1,4 +1,4 @@
-# Las Vegas Hotels: TripAdvisor Review Insights
+# Las Vegas Hotels: TripAdvisor Insights
 
 ## Summary
 
