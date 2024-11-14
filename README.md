@@ -27,10 +27,10 @@ The dashboard reflects that Tripadvisor hotel users in Las Vegas between Decmebe
 
 ## Recommendations
 
--**Expand Amenities:** The Hotels could consider adding amenities like clubs and basketball courts, especially for properties attracting families and group travelers.
+**Expand Amenities:** The Hotels could consider adding amenities like clubs and basketball courts, especially for properties attracting families and group travelers.
 
--**Marketing Focus for Africa and South America:** Given the lower user base from Africa and South America, Tripadvisor may focus on marketing in these regions to boost interest.
+**Marketing Focus for Africa and South America:** Given the lower user base from Africa and South America, Tripadvisor may focus on marketing in these regions to boost interest.
 
--**Seasonal Offers for Couples and Families:** Tailored seasonal promotions for couples and families could help maximise occupancy rates in lower-demand periods.
+**Seasonal Offers for Couples and Families:** Tailored seasonal promotions for couples and families could help maximise occupancy rates in lower-demand periods.
 
--**Highlight Proximity to Attractions:** Emphasise the central location of these hotels on the Strip to attract tourists looking for a convenient and immersive Las Vegas experience.
+**Highlight Proximity to Attractions:** Emphasise the central location of these hotels on the Strip to attract tourists looking for a convenient and immersive Las Vegas experience.
