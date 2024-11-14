@@ -33,4 +33,4 @@ The dashboard reflects that Tripadvisor hotel users in Las Vegas between Decmebe
 
 **Seasonal Offers for Couples and Families:** Tailored seasonal promotions for couples and families could help maximise occupancy rates in lower-demand periods.
 
-**Highlight Proximity to Attractions:** Emphasise the central location of these hotels on the Strip to attract tourists looking for a convenient and immersive Las Vegas experience.
+**Highlight Proximity to Attractions:** Emphasise the central location of these hotels on the strip to attract tourists looking for a convenient and immersive Las Vegas experience.
